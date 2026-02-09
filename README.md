@@ -1,2 +1,2 @@
 # KICS
-https://kics20260205.streamlit.app/
+https://thm7yxc3sydcez84rqsfv5.streamlit.app/
